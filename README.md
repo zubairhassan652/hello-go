@@ -47,7 +47,7 @@ git push heroku master
 Access the browser by hitting
 
 ```
-https://<your-app-name>.herokuapp.com
+https://<newname>.herokuapp.com
 ```
 
 
