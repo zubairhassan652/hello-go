@@ -10,7 +10,8 @@ Clone this repo
 
 Login to heroku cli using:
 
-``` heroku login
+``` 
+heroku login
 ```
 
 ### Step 3
